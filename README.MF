@@ -1,3 +1,5 @@
 hansunyi git
 
 first edit
+
+learn git add -A;git commit -am 'learn -am'; git push ;
